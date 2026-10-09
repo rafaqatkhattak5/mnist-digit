@@ -3,8 +3,7 @@
 A deep learning web app that recognizes digits drawn on screen. A CNN trained on MNIST (99.19% test accuracy) is served with FastAPI and has a dark, mobile-friendly drawing-pad UI.
 
 
-
-![Demo](demo.jpg)
+![Demo](Screenshot_20261009-121830.jpg)
 
 
 
